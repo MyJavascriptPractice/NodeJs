@@ -1,3 +1,5 @@
+//in this directory write: node expressserver.js
+
 var express = require('express'),
 	app		= express();
 
